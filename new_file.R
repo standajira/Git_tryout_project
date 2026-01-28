@@ -1,11 +1,9 @@
 b<-5+2
 
 c<-4*56
-<<<<<<< HEAD
-OJJJJJJJJJJJJ
+#<<<<<<< HEAD
+#OJJJJJJJJJJJJ
 #jnfjwnfjasnfsdbvhsebvh
-What
-=======
 
 #This is absolutely incredible
 
@@ -14,3 +12,6 @@ What
 #Why not working tho?
 
 #Workiiiing-- sending this shit up
+
+
+#Im setting off into the multiverse
